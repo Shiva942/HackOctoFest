@@ -1,3 +1,3 @@
-Hola Guys!
-This is repository to help people and encourage and increase involvement in Hactoberfest.
-Feel free to place a PR, Enjoy the Festival
+Hola Guys!I am Tanisha Agarwal
+This repository is to help people and encourage them  and increase involvement in Hactoberfest.
+Feel free to place a PR, Enjoy the Festival.
